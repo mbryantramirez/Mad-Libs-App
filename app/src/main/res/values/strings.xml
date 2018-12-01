@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MAD LIBS</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="textview">Welcome to Mad Libs!\nFirst, What is your favorite Color?</string>
+    <string name="welcomeButton">Let\'s Start!</string>
+    <!--Activity_main2-->
+    <string name="button2">Next</string>
+    <string name="input2">Favorite Animal?</string>
+    <string name="textview2">Let\'s start this off with your favorite animal.\nCrazier the better ;)</string>
+    <!--Activity_main3-->
+    <string name="textview3">What is your favorite dessert?</string>
+    <string name="button3">Next</string>
+    <string name="input3">Favorite dessert?</string>
+    <!--Activity_main4-->
+    <string name="input4">body part</string>
+    <string name="button4">Next</string>
+    <string name="textview4">Which body part shall we assign</string>
+    <!--Activity_main5-->
+    <string name="textview5">Enter a verb</string>
+    <string name="input5">verb</string>
+    <string name="button5">next</string>
+
+    <!--Activity_main6-->
+    <string name="textview6">Enter a different name/nickname of your original animal choice</string>
+    <string name="input6">snake would be a "danger noodle"</string>
+    <string name="button6">Next</string>
+    <!--Activity_main7-->
+    <string name="input7">another verb</string>
+    <string name="button7">Next</string>
+    <!--Activity_main8-->
+    <string name="textview8">TextView</string>
+    <string name="button8">Next</string>
+    <string name="edit_text8">Last verb I promise</string>
+
+
+</resources>
